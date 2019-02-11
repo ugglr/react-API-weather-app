@@ -2,7 +2,12 @@ import React from "react";
 
 class Weather extends React.Component {
   render() {
-    return <div>Weather component</div>;
+    return (
+      <div>
+        <p>This will show the temperature: </p>
+        {this.props.temperature}
+      </div>
+    );
   }
 }
 
