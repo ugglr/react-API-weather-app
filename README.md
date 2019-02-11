@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<h1>React API Weather app</h1>
+ <h3>In this app I am going to use an API to fetch weather data and display it to the DOM using react.js
+  <ul> Technologies
+    <li>Node.js - npm for installing and running dependancies</li>
+    <li>React.js - create-react-app</li>
+    <li>Use an API to fetch data about a given city</li>
+    <li>HTML/CSS to display the data in a thoughtful way</li>
+  </ul>
+</h3>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
