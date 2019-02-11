@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <h1>React API Weather app</h1>
  <h3>In this app I am going to use an API to fetch weather data and display it to the DOM using react.js<br><br>
-  <ul> Technologies <br>
+  <ul> Technologies <br><br>
     <li>Node.js - npm for installing and running dependancies</li>
     <li>React.js - create-react-app</li>
     <li>Use an API to fetch data about a given city</li>
