@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <h1>React API Weather app</h1>
- <h3>In this app I am going to use an API to fetch weather data and display it to the DOM using react.js
+ <h3>In this app I am going to use an API to fetch weather data and display it to the DOM using react.js<br>
   <ul> Technologies
     <li>Node.js - npm for installing and running dependancies</li>
     <li>React.js - create-react-app</li>
