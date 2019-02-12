@@ -5,6 +5,7 @@ class Weather extends React.Component {
     return (
       <div>
         <p>This will show the temperature: </p>
+        {this.props.city}
         {this.props.temperature}
       </div>
     );
