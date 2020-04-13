@@ -2,7 +2,6 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carlw.se/portfolioSites/react-weather-app/",
   "dependencies": {
     "bootstrap": "^4.3.0",
     "react": "^16.8.1",
